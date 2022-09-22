@@ -19,3 +19,6 @@
 - ```git log``` View all commits
 
 ## addNumbers
+Loops:
+* for in, return indexes
+* for of, returns values
