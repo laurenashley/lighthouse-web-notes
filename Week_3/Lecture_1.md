@@ -1,5 +1,17 @@
 # Mocha, Chai, and TDD
 
+# Lauren's Notes
+
+## Assertion
+"Assert expected output"
+"Determine if two things are the same"
+
+## Chai
+- Builds on Node assertion lib
+- More user friendly for non-tech peeps
+
+# Taiwo's Lecture:::
+
 ## Resources
  - Video: https://us02web.zoom.us/rec/share/BVP5zuMKux2lat2U0JgxNgeHf53j5zbAKSNW8rqNsjq3Xss7JO87E-VLSmqQSlkt.szlJwBG9W9CzzFQQ Passcode: m?L0px&Q
  - Repo: https://github.com/muyiwaoyeniyi/lhl-lectures/tree/main/Sept-19th-2022-Cohort/flex-m01w3
