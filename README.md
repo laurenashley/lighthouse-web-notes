@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [Lauren Zaubi](https://github.com/laurenashley) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Lauren Zaubi](https://github.com/laurenashley) and/or copied from instrcutor's lecture notes for the Lighthouse Labs Web Development Bootcamp.
 
 ### Table of Contents
 * [Week 1](/Week_1)
@@ -13,3 +13,5 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
   * [Day 2 Callback Functions](/Week_2/Lecture_2.md)
 * [Week 3](/Week_3)
   * [Day 1 Mocha, Chai, and TDD](/Week_3/Lecture_1.md)
+* [Week 4](/Week_4)
+  * [Day 1 Ansynchronous Control Flow](/Week_4/Lecture_1.md)
