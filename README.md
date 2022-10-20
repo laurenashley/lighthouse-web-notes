@@ -15,3 +15,6 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
   * [Day 1 Mocha, Chai, and TDD](/Week_3/Lecture_1.md)
 * [Week 4](/Week_4)
   * [Day 1 Ansynchronous Control Flow](/Week_4/Lecture_1.md)
+* [Week 5](/Week_5)
+  * [Day 1 Networking with TCP and HTTP](/Week_5/Lecture_1.md)
+  * [Day 2 ](/Week_5/Lecture_2.md)
