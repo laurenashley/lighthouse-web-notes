@@ -18,3 +18,5 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
 * [Week 5](/Week_5)
   * [Day 1 Networking with TCP and HTTP](/Week_5/Lecture_1.md)
   * [Day 2 ](/Week_5/Lecture_2.md)
+* [Week 6](/Week_6)
+  * [Day 1 Web Servers 101](/Week_6/Lecture_1.md)
