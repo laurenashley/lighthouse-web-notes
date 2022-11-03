@@ -23,4 +23,4 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
   * [Day 2 CRUD with Express](/Week_6/Lecture_2.md)
 * [Week 7](/Week_7)
   * [Day 1 HTTP Cookies and Authentication](/Week_7/Lecture_1.md)
-  * [Day 2 ](/Week_7/Lecture_2.md)
+  * [Day 2 Security and Real World http Server](/Week_7/Lecture_2.md)
