@@ -24,3 +24,6 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
 * [Week 7](/Week_7)
   * [Day 1 HTTP Cookies and Authentication](/Week_7/Lecture_1.md)
   * [Day 2 Security and Real World http Server](/Week_7/Lecture_2.md)
+* [Week 7](/Week_8)
+  * [Day 1 Lighthouse Labs | Introduction to CSS](/Week_8/Lecture_1.md)
+  * [Day 2 Client-side JS and jQuery](/Week_8/Lecture_2.md)
