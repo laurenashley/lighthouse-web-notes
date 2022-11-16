@@ -213,7 +213,7 @@ $(document).ready(() => {
         success: response => {
             let outputHTML = '<ul>';
             response.forEach(movie => outputHTML += `<li>${movie.title} (${movie.original_title})</li>`);
-            outputString += '</ul>';
+            outputHTML += '</ul>';
             $(document.body).append(outputHTML);
         },
         // If an error occurred, log the issue:
