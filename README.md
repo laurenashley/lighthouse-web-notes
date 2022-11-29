@@ -32,4 +32,4 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
 * [Week 10](/Week_10)
   * [Day 1 Responsive Design and SASS](/Week_10/Lecture_1.md)
 * [Week 11](/Week_1/)
-  * [Day 1 ](/Week_11/Lecture_1.md)
+  * [Day 1 Intro to SQL](/Week_11/Lecture_1.md)
