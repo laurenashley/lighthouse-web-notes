@@ -36,3 +36,5 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
   * [Day 2 Database Design](/Week_11/Lecture_2.md)
 * [Week 12](/Week_12/)
   * [Day 1 SQL from our Apps](/Week_12/Lecture_1.md)
+* [Week 16](/Week_16/)
+  * [Day 1 Intro to React](/Week_16/Lecture_1.md)
