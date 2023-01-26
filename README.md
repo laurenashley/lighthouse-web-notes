@@ -38,3 +38,7 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
   * [Day 1 SQL from our Apps](/Week_12/Lecture_1.md)
 * [Week 16](/Week_16/)
   * [Day 1 Intro to React](/Week_16/Lecture_1.md)
+* [Week 17]
+  * [Day 1 React Component Based UI]( https://github.com/WarrenUhrich/lighthouse-labs-component-based-ui-with-react/tree/2023.01.24-web-flex-day-19sept2022)
+
+ 
