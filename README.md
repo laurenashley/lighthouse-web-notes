@@ -39,6 +39,10 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
 * [Week 16](/Week_16/)
   * [Day 1 Intro to React](/Week_16/Lecture_1.md)
 * [Week 17]
-  * [Day 1 React Component Based UI]( https://github.com/WarrenUhrich/lighthouse-labs-component-based-ui-with-react/tree/2023.01.24-web-flex-day-19sept2022)
+  * [React Component Based UI](https://github.com/WarrenUhrich/lighthouse-labs-component-based-ui-with-react/tree/2023.01.24-web-flex-day-19sept2022)
+* [Week 18]
+  * [Data Fetching and Other Side Effects][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-data-fetching-and-other-side-effects/tree/2023.01.31-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/794634026/61e5745695)
+* [Week 19]
+  * [Data Fetching and Other Side Effects][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-react-review/tree/2023.02.07-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/796782251/1a1c7ef9d1)
 
  
