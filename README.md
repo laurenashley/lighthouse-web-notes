@@ -37,9 +37,11 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
 * [Week 12](/Week_12/)
   * [Day 1 SQL from our Apps](/Week_12/Lecture_1.md)
 * [Week 16](/Week_16/)
-  * [Day 1 Intro to React](/Week_16/Lecture_1.md)
+  * [Day 1 Intro to React](/Week_16/Lecture_1.md)  
+  * [React Fundamental][GitHub Repository Branch](https://github.com/muyiwaoyeniyi/lhl-lectures/tree/main/Sept-19th-2022-Cohort/flex-m07w16) | [Vimeo Video Recording](https://vimeo.com/790201448/24c620eb14)
 * [Week 17]
-  * [React Component Based UI](https://github.com/WarrenUhrich/lighthouse-labs-component-based-ui-with-react/tree/2023.01.24-web-flex-day-19sept2022)
+  * [Immutable Update Patterns][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-component-based-ui-with-react/tree/2023.01.24-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/792370960/4520895e7e)
+  * [React Component Based UI][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-data-fetching-and-other-side-effects/tree/2023.01.31-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/794634026/61e5745695)
 * [Week 18]
   * [Data Fetching and Other Side Effects][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-data-fetching-and-other-side-effects/tree/2023.01.31-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/794634026/61e5745695)
 * [Week 19]
