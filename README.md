@@ -47,6 +47,7 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
 * [Week 19]
   * [Data Fetching and Other Side Effects][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-react-review/tree/2023.02.07-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/796782251/1a1c7ef9d1)
 * [Week 20]
-  * [DUnit & Integration Testing][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-unit-and-integration-testing/tree/2023.02.14-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/798899521/27d6f99418)
+  * [Unit & Integration Testing][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-unit-and-integration-testing/tree/2023.02.14-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/798899521/27d6f99418)
+  * [End-to-End Testing with Cypress][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-end-to-end-testing-with-cypress/tree/2023.02.16-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/799629428/4a9f439aa2)
 
  
