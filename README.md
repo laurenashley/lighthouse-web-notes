@@ -49,5 +49,11 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
 * [Week 20]
   * [Unit & Integration Testing][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-unit-and-integration-testing/tree/2023.02.14-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/798899521/27d6f99418)
   * [End-to-End Testing with Cypress][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-end-to-end-testing-with-cypress/tree/2023.02.16-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/799629428/4a9f439aa2)
+* [Week 21]
+  * [Real World React (Advanced Topics)][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-real-world-react/tree/2023.02.21-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/800992771/3bbd20a99d)
+  * [Class-based Components][GitHub Repository Branch](https://flex-web.compass.lighthouselabs.ca/activities/1019/lectures/586?workbook_id=flex-m08w21) | [Vimeo Video Recording](https://vimeo.com/801742179/1381ac99dc?embedded=true&source=vimeo_logo&owner=147384195)
+* [Week 22]
+  * [Intro to Ruby][GitHub Repository Branch](https://github.com/pedroagont/webflex-19sep/tree/master/m09w22) | [Vimeo Video Recording](url)
+  * [Title][GitHub Repository Branch](https://) | [Vimeo Video Recording](https://)
 
  
