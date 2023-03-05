@@ -54,6 +54,6 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
   * [Class-based Components][GitHub Repository Branch](https://flex-web.compass.lighthouselabs.ca/activities/1019/lectures/586?workbook_id=flex-m08w21) | [Vimeo Video Recording](https://vimeo.com/801742179/1381ac99dc?embedded=true&source=vimeo_logo&owner=147384195)
 * [Week 22]
   * [Intro to Ruby][GitHub Repository Branch](https://github.com/pedroagont/webflex-19sep/tree/master/m09w22) | [Vimeo Video Recording](url)
-  * [Title][GitHub Repository Branch](https://) | [Vimeo Video Recording](https://)
+  * [Title][GitHub Repository Branch](https://github.com/pedroagont/webflex-19sep/tree/master/m09w22) | [Vimeo Video Recording](https://vimeo.com/803263920/386ee1d31d)
 
  
