@@ -55,5 +55,8 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
 * [Week 22]
   * [Intro to Ruby][GitHub Repository Branch](https://github.com/pedroagont/webflex-19sep/tree/master/m09w22) | [Vimeo Video Recording](url)
   * [Title][GitHub Repository Branch](https://github.com/pedroagont/webflex-19sep/tree/master/m09w22) | [Vimeo Video Recording](https://vimeo.com/803263920/386ee1d31d)
-
+* [Week 23]
+  * [Project Planning][Compass Page](https://flex-web.compass.lighthouselabs.ca/activities/2072/lectures/608) | [Vimeo Video Recording](https://vimeo.com/743182798/1bad5cdc67)
+* [Week 24]
+  * [Rails Review][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-ruby-on-rails-review/tree/2023.03.14-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/808065239/c6ac3f0b5d)
  
