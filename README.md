@@ -59,4 +59,4 @@ This repository contains all of the notes taken by [Lauren Zaubi](https://github
   * [Project Planning][Compass Page](https://flex-web.compass.lighthouselabs.ca/activities/2072/lectures/608) | [Vimeo Video Recording](https://vimeo.com/743182798/1bad5cdc67)
 * [Week 24]
   * [Rails Review][GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-ruby-on-rails-review/tree/2023.03.14-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/808065239/c6ac3f0b5d)
- 
+  * [Next JS Intro][GitHub Repository Branch](https://github.com/SomeChineseGuy/WebFlex-Sept-2022/tree/main) | [Compass Video Recording](https://flex-web.compass.lighthouselabs.ca/activities/1304/lectures/627)
